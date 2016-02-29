@@ -1,1 +1,1 @@
-# Slack Best Practices
+# Classroom Technology Best Practices
